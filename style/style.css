@@ -1,4 +1,6 @@
 .fira-sans-extrabold {
+    max-width: 767px;
+    max-width: 768px;
     font-family: "Fira Sans", serif;
     font-weight: 800;
     font-style: normal;
